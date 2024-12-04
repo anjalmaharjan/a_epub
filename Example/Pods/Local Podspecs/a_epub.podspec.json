@@ -1,0 +1,22 @@
+{
+  "name": "a_epub",
+  "version": "0.1.0",
+  "summary": "A short description of a_epub.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/49938876/a_epub",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "49938876": "heromaharjan@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/49938876/a_epub.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "a_epub/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - a_epub (0.1.0)
+
+DEPENDENCIES:
+  - a_epub (from `../`)
+
+EXTERNAL SOURCES:
+  a_epub:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  a_epub: 05e100ea076b9d1df87f2da35b3fb897bb77315e
+
+PODFILE CHECKSUM: 87e75ab87f55a5d929c00bcf938a607f44461ac0
+
+COCOAPODS: 1.15.2
