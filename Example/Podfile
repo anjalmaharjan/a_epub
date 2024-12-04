@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'a_epub_Example' do
+  pod 'a_epub', :path => '../'
+
+  target 'a_epub_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
